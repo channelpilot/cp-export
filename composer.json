@@ -1,0 +1,25 @@
+{
+  "name": "spryker-eco/cp-export",
+  "description": "ChannelPilot Export module",
+  "require": {
+    "spryker/kernel": "^3.0.0",
+    "spryker-eco/channel-pilot": "^1.0.0"
+  },
+  "require-dev": {
+    "spryker/code-sniffer": "*",
+    "spryker/monolog": "*",
+    "spryker/queue": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SprykerEco\\": "src/SprykerEco/"
+    }
+  },
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://github.com/channelpilot/cp-export"
+    }
+  ]
+}
