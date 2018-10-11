@@ -7,7 +7,6 @@ use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
 use ChannelPilot\Zed\CpExport\CpExportDependencyProvider;
 
 /**
- * @method \ChannelPilot\Zed\CpExport\CpExportConfig getConfig()
  * @method \ChannelPilot\Zed\CpExport\Persistence\CpExportQueryContainer getQueryContainer()
  */
 class CpExportBusinessFactory extends AbstractBusinessFactory
