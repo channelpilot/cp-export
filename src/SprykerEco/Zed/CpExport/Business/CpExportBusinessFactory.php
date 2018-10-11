@@ -1,14 +1,14 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Business;
+namespace ChannelPilot\Zed\CpExport\Business;
 
-use SprykerEco\Zed\CpExport\Business\Model\CpExport;
+use ChannelPilot\Zed\CpExport\Business\Model\CpExport;
 use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
-use SprykerEco\Zed\CpExport\CpExportDependencyProvider;
+use ChannelPilot\Zed\CpExport\CpExportDependencyProvider;
 
 /**
- * @method \SprykerEco\Zed\CpExport\CpExportConfig getConfig()
- * @method \SprykerEco\Zed\CpExport\Persistence\CpExportQueryContainer getQueryContainer()
+ * @method \ChannelPilot\Zed\CpExport\CpExportConfig getConfig()
+ * @method \ChannelPilot\Zed\CpExport\Persistence\CpExportQueryContainer getQueryContainer()
  */
 class CpExportBusinessFactory extends AbstractBusinessFactory
 {

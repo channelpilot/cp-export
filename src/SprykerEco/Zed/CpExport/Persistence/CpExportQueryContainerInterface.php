@@ -1,6 +1,6 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Persistence;
+namespace ChannelPilot\Zed\CpExport\Persistence;
 
 use Spryker\Zed\Kernel\Persistence\QueryContainer\QueryContainerInterface;
 

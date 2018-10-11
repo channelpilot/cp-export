@@ -1,6 +1,6 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Business;
+namespace ChannelPilot\Zed\CpExport\Business;
 
 interface CpExportFacadeInterface
 {

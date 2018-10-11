@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-composer require channelpilot/channel-pilot
+composer require channel-pilot/channel-pilot
 ```
 
 ## Documentation

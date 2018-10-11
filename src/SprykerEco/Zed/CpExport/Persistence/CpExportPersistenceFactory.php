@@ -1,6 +1,6 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Persistence;
+namespace ChannelPilot\Zed\CpExport\Persistence;
 
 use Orm\Zed\Category\Persistence\Base\SpyCategoryNodeQuery;
 use Orm\Zed\Category\Persistence\Base\SpyCategoryQuery;
@@ -12,8 +12,8 @@ use Orm\Zed\Product\Persistence\SpyProductLocalizedAttributesQuery;
 use Spryker\Zed\Kernel\Persistence\AbstractPersistenceFactory;
 
 /**
- * @method \SprykerEco\Zed\CpExport\CpExportConfig getConfig()
- * @method \SprykerEco\Zed\CpExport\Persistence\CpExportQueryContainer getQueryContainer()
+ * @method \ChannelPilot\Zed\CpExport\CpExportConfig getConfig()
+ * @method \ChannelPilot\Zed\CpExport\Persistence\CpExportQueryContainer getQueryContainer()
  */
 class CpExportPersistenceFactory extends AbstractPersistenceFactory
 {

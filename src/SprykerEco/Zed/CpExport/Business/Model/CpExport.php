@@ -1,9 +1,9 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Business\Model;
+namespace ChannelPilot\Zed\CpExport\Business\Model;
 
-use SprykerEco\Zed\CpExport\Business\CpExportBusinessFactory;
-use SprykerEco\Shared\ChannelPilot\ChannelPilotConstants;
+use ChannelPilot\Zed\CpExport\Business\CpExportBusinessFactory;
+use ChannelPilot\Shared\ChannelPilot\ChannelPilotConstants;
 
 class CpExport
 {

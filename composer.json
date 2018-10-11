@@ -1,5 +1,5 @@
 {
-  "name": "spryker-eco/cp-export",
+  "name": "channel-pilot/cp-export",
   "description": "ChannelPilot Export module",
   "require": {
     "spryker/kernel": "^3.0.0",

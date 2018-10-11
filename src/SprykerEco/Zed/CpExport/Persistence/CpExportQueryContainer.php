@@ -1,11 +1,11 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Persistence;
+namespace ChannelPilot\Zed\CpExport\Persistence;
 
 use Spryker\Zed\Kernel\Persistence\AbstractQueryContainer;
 
 /**
- * @method \SprykerEco\Zed\CpExport\Persistence\CpExportPersistenceFactory getFactory()
+ * @method \ChannelPilot\Zed\CpExport\Persistence\CpExportPersistenceFactory getFactory()
  */
 class CpExportQueryContainer extends AbstractQueryContainer implements CpExportQueryContainerInterface
 {

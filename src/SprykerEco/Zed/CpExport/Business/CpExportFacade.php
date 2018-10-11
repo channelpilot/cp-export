@@ -1,11 +1,11 @@
 <?php
 
-namespace SprykerEco\Zed\CpExport\Business;
+namespace ChannelPilot\Zed\CpExport\Business;
 
 use Spryker\Zed\Kernel\Business\AbstractFacade;
 
 /**
- * @method \SprykerEco\Zed\CpExport\Business\CpExportBusinessFactory getFactory()
+ * @method \ChannelPilot\Zed\CpExport\Business\CpExportBusinessFactory getFactory()
  */
 class CpExportFacade extends AbstractFacade implements CpExportFacadeInterface
 {
