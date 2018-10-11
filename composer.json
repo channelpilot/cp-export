@@ -3,7 +3,7 @@
   "description": "ChannelPilot Export module",
   "require": {
     "spryker/kernel": "^3.0.0",
-    "spryker-eco/channel-pilot": "^1.0.0"
+    "channel-pilot/channel-pilot": "^1.0.0"
   },
   "require-dev": {
     "spryker/code-sniffer": "*",
